@@ -1,4 +1,4 @@
-Hello there, I'm currently a PhD student in Biomedical Engineering. I've degrees in Molecular Biology and Bioinformatics and have been doing data science and machine learning stuff before it was cool :)
+Hello there, I'm currently a PhD student in Biomedical Engineering. I hold degrees in Molecular Biology and Bioinformatics and have been doing data science and machine learning stuff before it was cool :)
 
 Over the last five years I've published over 20 articles in the fields of digital health, health informatics and artificial intelligence.
 Here on my GitHub you can find some projects related to my research but also some unrelated personal stuff. 
