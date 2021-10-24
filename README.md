@@ -4,11 +4,12 @@ Over the last five years I've published over 20 articles in the fields of digita
 Here on my GitHub you can find some projects related to my research but also some unrelated personal stuff. 
 If our industry partners allow, I will try to release more of my research related projects here.
 
-In terms of programming I'm very proficient with Python and its whole data ecosystem (NumPy, SciPy, Pandas, PyTorch) in addition, I've been using R for years, although only really for specialised statistical models, such generalized mixed linear effects models or the likes.
+In terms of programming I'm very proficient with Python and its whole data ecosystem (NumPy, SciPy, Pandas, PyTorch) in addition, I've been using R for years, although only really for specialised statistical models, such as generalized mixed effects models or the likes.
 
 In terms of software engineering I'm mainly proficient with Java, having worked with Spring Boot, Hibernate and Android SDK, amongst others.
 Further I do have some familiarity with C#, C, Javascript/HTML/CSS, Swift and multiple databases (MySQL, OmniSci, PostgreSQL, MongoDB). 
 
+Most importantly, I like cats (yes yes, dogs can be cute too)!
 
 <!---
 NarayanSchuetz/NarayanSchuetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
