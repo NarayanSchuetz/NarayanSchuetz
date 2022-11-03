@@ -1,4 +1,4 @@
-Hello there, I'm currently working as a Data Scientist. Previously, I optained a PhD in Biomedical Engineering and hold further degrees in Molecular Biology and Bioinformatics. I have been doing data science and machine learning stuff for more than 7 years now, starting before it was cool :)
+Hello there, I'm currently working as a Postdoctoral Researcher at Stanford University. Previously, I worked as a Data Scientist and optained a PhD in Biomedical Engineering and hold further degrees in Molecular Biology and Bioinformatics. I have been doing data science and machine learning stuff for more than 7 years now, starting before it was cool :)
 
 I've published over 20 articles in the fields of digital health, health informatics and artificial intelligence.
 Here on my GitHub you can find some projects related to my research but also some unrelated personal stuff. 
